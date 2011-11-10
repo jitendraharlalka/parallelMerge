@@ -1,1 +1,3 @@
 The code implements Merge sort algorithm using parallel programming library (multicore) in R.
+
+The code is available under GPL (GNU Public License) Version 2.
